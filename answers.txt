@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: Git allows for version control- it allows developers to track their code. It facilitates collaboration amongst developers, and ensures we have a record for our project's history.
+
